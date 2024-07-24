@@ -67,6 +67,12 @@ import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
+import benefitBackground1 from "./benefits/card-1.svg";
+import benefitBackground2 from "./benefits/card-2.svg";
+import benefitBackground3 from "./benefits/card-3.svg";
+import benefitBackground4 from "./benefits/card-4.svg";
+import benefitBackground5 from "./benefits/card-5.svg";
+import benefitBackground6 from "./benefits/card-6.svg";
 import benefitImage2 from "./benefits/image-2.png";
 
 import gitHub from "./socials/github.svg";
@@ -136,6 +142,12 @@ export {
   benefitIcon2,
   benefitIcon3,
   benefitIcon4,
+  benefitBackground1,
+  benefitBackground2,
+  benefitBackground3,
+  benefitBackground4,
+  benefitBackground5,
+  benefitBackground6,
   benefitImage2,
   gitHub,
   linkedIn,
