@@ -307,12 +307,6 @@ export const socials = [
   },
   {
     id: "1",
-    title: "LinkedIn",
-    iconUrl: linkedIn,
-    url: "https://www.linkedin.com/in/baranakilli",
-  },
-  {
-    id: "2",
     title: "Upwork",
     iconUrl: upwork,
     url: "https://www.upwork.com/freelancers/baranakilli",
