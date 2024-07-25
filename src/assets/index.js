@@ -76,7 +76,6 @@ import benefitBackground6 from "./benefits/card-6.svg";
 import benefitImage2 from "./benefits/image-2.png";
 
 import gitHub from "./socials/github.svg";
-import linkedIn from "./socials/linkedin.svg";
 import upwork from "./socials/upwork.svg";
 
 export {
@@ -150,6 +149,5 @@ export {
   benefitBackground6,
   benefitImage2,
   gitHub,
-  linkedIn,
   upwork,
 };

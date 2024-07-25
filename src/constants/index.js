@@ -18,7 +18,6 @@ import {
   framer,
   gitHub,
   homeSmile,
-  linkedIn,
   notification2,
   notification3,
   notification4,
